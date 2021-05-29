@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\Text_Writer\bin\Debug\netcoreapp3.1\Text_Writer.exe
+C:\Users\Satya Maddila\source\repos\Text_Writer\bin\Debug\netcoreapp3.1\Text_Writer.deps.json
+C:\Users\Satya Maddila\source\repos\Text_Writer\bin\Debug\netcoreapp3.1\Text_Writer.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Text_Writer\bin\Debug\netcoreapp3.1\Text_Writer.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Text_Writer\bin\Debug\netcoreapp3.1\Text_Writer.dll
+C:\Users\Satya Maddila\source\repos\Text_Writer\bin\Debug\netcoreapp3.1\Text_Writer.pdb
+C:\Users\Satya Maddila\source\repos\Text_Writer\obj\Debug\netcoreapp3.1\Text_Writer.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\Text_Writer\obj\Debug\netcoreapp3.1\Text_Writer.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Text_Writer\obj\Debug\netcoreapp3.1\Text_Writer.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Text_Writer\obj\Debug\netcoreapp3.1\Text_Writer.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Text_Writer\obj\Debug\netcoreapp3.1\Text_Writer.dll
+C:\Users\Satya Maddila\source\repos\Text_Writer\obj\Debug\netcoreapp3.1\Text_Writer.pdb
+C:\Users\Satya Maddila\source\repos\Text_Writer\obj\Debug\netcoreapp3.1\Text_Writer.genruntimeconfig.cache
