@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\FileInfo\obj\Debug\netcoreapp3.1\FileInfo.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\FileInfo\obj\Debug\netcoreapp3.1\FileInfo.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\FileInfo\obj\Debug\netcoreapp3.1\FileInfo.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\FileInfo\obj\Debug\netcoreapp3.1\FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\FileInfo\bin\Debug\netcoreapp3.1\FileInfo.exe
+C:\Users\Satya Maddila\source\repos\FileInfo\bin\Debug\netcoreapp3.1\FileInfo.deps.json
+C:\Users\Satya Maddila\source\repos\FileInfo\bin\Debug\netcoreapp3.1\FileInfo.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\FileInfo\bin\Debug\netcoreapp3.1\FileInfo.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\FileInfo\bin\Debug\netcoreapp3.1\FileInfo.dll
+C:\Users\Satya Maddila\source\repos\FileInfo\bin\Debug\netcoreapp3.1\FileInfo.pdb
+C:\Users\Satya Maddila\source\repos\FileInfo\obj\Debug\netcoreapp3.1\FileInfo.dll
+C:\Users\Satya Maddila\source\repos\FileInfo\obj\Debug\netcoreapp3.1\FileInfo.pdb
+C:\Users\Satya Maddila\source\repos\FileInfo\obj\Debug\netcoreapp3.1\FileInfo.genruntimeconfig.cache
