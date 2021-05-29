@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\File Stream 4\bin\Debug\netcoreapp3.1\File Stream 4.exe
+C:\Users\Satya Maddila\source\repos\File Stream 4\bin\Debug\netcoreapp3.1\File Stream 4.deps.json
+C:\Users\Satya Maddila\source\repos\File Stream 4\bin\Debug\netcoreapp3.1\File Stream 4.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\File Stream 4\bin\Debug\netcoreapp3.1\File Stream 4.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\File Stream 4\bin\Debug\netcoreapp3.1\File Stream 4.dll
+C:\Users\Satya Maddila\source\repos\File Stream 4\bin\Debug\netcoreapp3.1\File Stream 4.pdb
+C:\Users\Satya Maddila\source\repos\File Stream 4\obj\Debug\netcoreapp3.1\File Stream 4.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\File Stream 4\obj\Debug\netcoreapp3.1\File Stream 4.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\File Stream 4\obj\Debug\netcoreapp3.1\File Stream 4.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\File Stream 4\obj\Debug\netcoreapp3.1\File Stream 4.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\File Stream 4\obj\Debug\netcoreapp3.1\File Stream 4.dll
+C:\Users\Satya Maddila\source\repos\File Stream 4\obj\Debug\netcoreapp3.1\File Stream 4.pdb
+C:\Users\Satya Maddila\source\repos\File Stream 4\obj\Debug\netcoreapp3.1\File Stream 4.genruntimeconfig.cache
