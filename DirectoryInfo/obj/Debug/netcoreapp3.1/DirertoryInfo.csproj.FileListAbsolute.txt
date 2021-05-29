@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\bin\Debug\netcoreapp3.1\DirertoryInfo.exe
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\bin\Debug\netcoreapp3.1\DirertoryInfo.deps.json
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\bin\Debug\netcoreapp3.1\DirertoryInfo.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\bin\Debug\netcoreapp3.1\DirertoryInfo.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\bin\Debug\netcoreapp3.1\DirertoryInfo.dll
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\bin\Debug\netcoreapp3.1\DirertoryInfo.pdb
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\obj\Debug\netcoreapp3.1\DirertoryInfo.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\obj\Debug\netcoreapp3.1\DirertoryInfo.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\obj\Debug\netcoreapp3.1\DirertoryInfo.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\obj\Debug\netcoreapp3.1\DirertoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\obj\Debug\netcoreapp3.1\DirertoryInfo.dll
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\obj\Debug\netcoreapp3.1\DirertoryInfo.pdb
+C:\Users\Satya Maddila\source\repos\DirertoryInfo\obj\Debug\netcoreapp3.1\DirertoryInfo.genruntimeconfig.cache
